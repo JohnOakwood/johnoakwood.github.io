@@ -3,4 +3,4 @@ plugins:
   - jekyll-remote-theme
 title: [Nutrameg's Comprehensive Cake Guide]
 description: [All rules and guidelines on this document applys to Nutrameg people and family 💚]
-show_downloads: ["false"]
+show_downloads: [false]

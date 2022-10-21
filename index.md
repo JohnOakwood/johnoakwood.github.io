@@ -14,7 +14,7 @@ layout: default
 
 # 2. Cake overlords
 
-#### CCO - John Oakwood
+###### CCO - John Oakwood
 
 The one above all, the alpha and the omega, rule enforcer and cake tester, his word is THE LAW!
 
@@ -23,7 +23,7 @@ The one above all, the alpha and the omega, rule enforcer and cake tester, his w
 Helps with cake traditions and enforces **CCO** laws and rules!
 If **Deputy No1.** is compromised, **Deputy No2.** takes the wheel.
 
-##### Deputy No2. - Robert the Longbeard
+###### Deputy No2. - Robert the Longbeard
 
 Same as **Deputy No1.** - only more beard.
 

@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 1. Dictionary
-* * *
+
 <dl>
 <dt>Cake</dt>
 <dd> - the most valuable currency there is and will ever be.</dd>
@@ -18,12 +18,12 @@ layout: default
 
 The one above all, the alpha and the omega, rule enforcer and cake tester, his word is THE LAW!
 
-#### Deputy No1. - Victoria's Secret
+###### Deputy No1. - Victoria's Secret
 
 Helps with cake traditions and enforces **CCO** laws and rules!
 If **Deputy No1.** is compromised, **Deputy No2.** takes the wheel.
 
-#### Deputy No2. - Robert the Longbeard
+##### Deputy No2. - Robert the Longbeard
 
 Same as **Deputy No1.** - only more beard.
 

@@ -4,6 +4,7 @@ layout: default
 
 # 1. Dictionary
 
+
 <dl>
 <dt>Cake</dt>
 <dd> - the most valuable currency there is and will ever be.</dd>
@@ -13,7 +14,8 @@ layout: default
 </dl>
 
 # 2. Cake overlords
-####
+
+
 ###### CCO - John Oakwood
 
 The one above all, the alpha and the omega, rule enforcer and cake tester, his word is THE LAW!
@@ -29,13 +31,14 @@ Same as **Deputy No1.** - only more beard.
 
 # 3. Our most beloved Cake traditions
 
+
 Nothing is more secret than Nutrameg Cake traditions. All started with a Cake and all will end with a cake!
 
 Here are our dearest Cake traditions that everyone has to fallow and hold dear to their hearts:
 
-3.1. New colleagues in their first (and last) workday bring cake to make peace with cake gods and have a prosperous life in Nutrameg.
+    3.1. New colleagues in their first (and last) workday bring cake to make peace with cake gods and have a prosperous life in Nutrameg.
 
-3.2. If you pass the probationary period - good for you - cake!
+    3.2. If you pass the probationary period - good for you - cake!
 
 3.3. On your birthday you bring cake!
 
@@ -56,6 +59,7 @@ Here are our dearest Cake traditions that everyone has to fallow and hold dear t
 3.11. New phone, car, flat, house, etc.? - cake!
 
 # 4. Cake punishments
+
 
 As everytihing in life, even cake has two sides. If we celebrated our victories in section 3. then in this section we have to talk about our little devils iside of os and thoir evel deed.
 
@@ -90,6 +94,7 @@ Here ar the most common crimes and punishments:
 4.14. If you leave wardrobe curtains open - cake!
 
 # 5. How to make Cake Gods happy
+
 
 5.1. Bring some cake from time to time, it can save your ass (or not).
 

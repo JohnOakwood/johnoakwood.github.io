@@ -12,9 +12,7 @@ layout: default
 <dd> - Chief Cake Officer.</dd>
 </dl>
 
-<h3 id="2-cake-overlords" class="header-level-3">2. Cake overlords</h3>
-
-* * *
+# 2. Cake overlords
 
 <h4 class="header-level-4">CCO - John Oakwood</h4>
 

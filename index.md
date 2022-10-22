@@ -14,22 +14,16 @@ layout: default
 
 # 2. Cake overlords
 
-<h4 id="cco---john-oakwood" class="header-level-4">CCO - John Oakwood</h4>
-
-## test
-
-### test
-
-#### CCO - John Oakwood
+<h4 class="header-level-4">CCO - John Oakwood</h4>
 
 The one above all, the alpha and the omega, rule enforcer and cake tester, his word is THE LAW!
 
-#### Deputy No1. - Victoria's Secret
+<h4 class="header-level-4">Deputy No1. - Victoria's Secret</h4>
 
 Helps with cake traditions and enforces **CCO** laws and rules!
 If **Deputy No1.** is compromised, **Deputy No2.** takes the wheel.
 
-#### Deputy No2. - Robert the Longbeard
+<h4 class="header-level-4">Deputy No2. - Robert the Longbeard</h4>
 
 Same as **Deputy No1.** - only more beard.
 

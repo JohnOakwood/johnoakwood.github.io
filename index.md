@@ -33,9 +33,11 @@ Nothing is more secret than Nutrameg Cake traditions. All started with a Cake an
 
 Here are our dearest Cake traditions that everyone has to fallow and hold dear to their hearts:
 
-<span style="margin-left: 15px">
+<div style="margin-left: 15px">
 
 3.1. New colleagues in their first (and last) workday bring cake to make peace with cake gods and have a prosperous life in Nutrameg.
+
+</div>
 
 3.2. If you pass the probationary period - good for you - cake!
 
@@ -57,7 +59,7 @@ Here are our dearest Cake traditions that everyone has to fallow and hold dear t
 
 3.11. New phone, car, flat, house, etc.? - cake!
 
-</span>
+
 
 # 4. Cake punishments
 

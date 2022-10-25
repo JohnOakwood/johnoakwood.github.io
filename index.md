@@ -61,46 +61,46 @@ As everytihing in life, even cake has two sides. If we celebrated our victories 
 
 Here ar the most common crimes and punishments:
 
-4.1. If you break section 3. rules - you bring cake!
+<p style="margin-left: 15px">4.1. If you break section 3. rules - you bring cake!</p>
 
-4.2. If you don't comply with your cake punishment, you have to bring (you guessed it) - 2 cakes!
+<p style="margin-left: 15px">4.2. If you don't comply with your cake punishment, you have to bring (you guessed it) - 2 cakes!</p>
 
-4.3. If you lie - you bring cake!
+<p style="margin-left: 15px">4.3. If you lie - you bring cake!</p>
 
-4.4. No profile picture - cake!
+<p style="margin-left: 15px">4.4. No profile picture - cake!</p>
 
-4.5. If you swear - cake!
+<p style="margin-left: 15px">4.5. If you swear - cake!</p>
 
-4.6. If you lose your driver's license - cake!
+<p style="margin-left: 15px">4.6. If you lose your driver's license - cake!</p>
 
-4.7. You made a car crash? - cake!
+<p style="margin-left: 15px">4.7. You made a car crash? - cake!</p>
 
-4.8. Sick? - cake!
+<p style="margin-left: 15px">4.8. Sick? - cake!</p>
 
-4.9. If you made somebody cry - cake!
+<p style="margin-left: 15px">4.9. If you made somebody cry - cake!</p>
 
-4.10. If you cry - cake!
+<p style="margin-left: 15px">4.10. If you cry - cake!</p>
 
-4.11. If you had a wedding (I am truly sorry for you) - cake!
+<p style="margin-left: 15px">4.11. If you had a wedding (I am truly sorry for you) - cake!</p>
 
-4.12. If you hate cake rules - 2 cakes!
+<p style="margin-left: 15px">4.12. If you hate cake rules - 2 cakes!</p>
 
-4.13. If you break something (furniture, hearts, etc.) - cake!
+<p style="margin-left: 15px">4.13. If you break something (furniture, hearts, etc.) - cake!</p>
 
-4.14. If you leave wardrobe curtains open - cake!
+<p style="margin-left: 15px">4.14. If you leave wardrobe curtains open - cake!</p>
 
 # 5. How to make Cake Gods happy
 
-5.1. Bring some cake from time to time, it can save your ass (or not).
+<p style="margin-left: 15px">5.1. Bring some cake from time to time, it can save your ass (or not).</p>
 
-5.2. You can bring Eclairs or Donuts, just to be sure you are on the good kid's list.
+<p style="margin-left: 15px">5.2. You can bring Eclairs or Donuts, just to be sure you are on the good kid's list.</p>
 
-5.3. If you were in a foreign country - you bring some sweets & candies!
+<p style="margin-left: 15px">5.3. If you were in a foreign country - you bring some sweets & candies!</p>
 
-5.4. If in bad mood - make it better with cake!
+<p style="margin-left: 15px">5.4. If in bad mood - make it better with cake!</p>
 
-5.5. If you haven't been in the office for a while - better bring a cake or Ilzes Eclairs from Ventspils!
+<p style="margin-left: 15px">5.5. If you haven't been in the office for a while - better bring a cake or Ilzes Eclairs from Ventspils!</p>
 
 > May the Cake Odds be Ever in Your Favor!
 
-_Latest revision: 24.10.2022 17:45_
+_Latest revision: 25.10.2022 12:45_

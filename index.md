@@ -89,6 +89,8 @@ Here ar the most common crimes and punishments:
 
 <p style="margin-left: 15px">4.14. If you leave wardrobe curtains open - cake!</p>
 
+<p style="margin-left: 15px">4.15. If you loose door chip - cake!</p>
+
 # 5. How to make Cake Gods happy
 
 <p style="margin-left: 15px">5.1. Bring some cake from time to time, it can save your ass (or not).</p>

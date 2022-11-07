@@ -29,17 +29,17 @@ Same as **Deputy No1.** - only more beard.
 
 # 3. Our most beloved Cake traditions
 
-Nothing is more secret than Nutrameg Cake traditions. All started with a Cake and all will end with a cake!
+Nothing is more secret than Nutrameg Cake traditions. All started with a Cake and all will end with a cake! I live by the cake & I die by cake!
 
-Here are our dearest Cake traditions that everyone has to fallow and hold dear to their hearts:
+Here are our dearest and most beloved Cake traditions that everyone has to follow and hold dear to their hearts:
 
-<p style="margin-left: 15px">3.1. New colleagues in their first (and last) workday bring cake to make peace with cake gods and have a prosperous life in Nutrameg.</p>
+<p style="margin-left: 15px">3.1. New colleagues in their first (and last) workday bring cake to make peace with the cake gods and have a prosperous life in Nutrameg family.</p>
 
 <p style="margin-left: 15px">3.2. If you pass the probationary period - good for you - cake!</p>
 
-<p style="margin-left: 15px">3.3. On your birthday you bring cake!</p>
+<p style="margin-left: 15px">3.3. On your birthday you bring - cake!</p>
 
-<p style="margin-left: 15px">3.4. And on your real birthday, you bring cake!</p>
+<p style="margin-left: 15px">3.4. And on your real birthday, you bring also cake!</p>
 
 <p style="margin-left: 15px">3.5. When you get a promotion, you bring cake!</p>
 
@@ -57,9 +57,9 @@ Here are our dearest Cake traditions that everyone has to fallow and hold dear t
 
 # 4. Cake punishments
 
-As everytihing in life, even cake has two sides. If we celebrated our victories in section 3. then in this section we have to talk about our little devils iside of os and thoir evel deed.
+As with everything in life, even cake has two sides. If we celebrated our victories in section 3. then in this section we have to talk about our little devils beside us and their evil deeds.
 
-Here ar the most common crimes and punishments:
+Here are the most common crimes and punishments:
 
 <p style="margin-left: 15px">4.1. If you break section 3. rules - you bring cake!</p>
 
@@ -73,7 +73,7 @@ Here ar the most common crimes and punishments:
 
 <p style="margin-left: 15px">4.6. If you lose your driver's license - cake!</p>
 
-<p style="margin-left: 15px">4.7. You made a car crash? - cake!</p>
+<p style="margin-left: 15px">4.7. Did you make a car crash? - cake!</p>
 
 <p style="margin-left: 15px">4.8. Sick? - cake!</p>
 
@@ -89,7 +89,7 @@ Here ar the most common crimes and punishments:
 
 <p style="margin-left: 15px">4.14. If you leave wardrobe curtains open - cake!</p>
 
-<p style="margin-left: 15px">4.15. If you loose door chip - cake!</p>
+<p style="margin-left: 15px">4.15. If you lose door chip - cake!</p>
 
 # 5. How to make Cake Gods happy
 
@@ -105,4 +105,4 @@ Here ar the most common crimes and punishments:
 
 > May the Cake Odds be Ever in Your Favor!
 
-_Latest revision: 25.10.2022 12:45_
+_Latest revision: 07.11.2022 13:25_

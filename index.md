@@ -27,6 +27,10 @@ If **Deputy No1.** is compromised, **Deputy No2.** takes the wheel.
 
 Same as **Deputy No1.** - only more beard.
 
+<h4 class="header-level-4">Kūknesis - Aleksis (drives BMW)</h4>
+
+Honorary title for our most dedicated cake bringer and lover.
+
 # 3. Our most beloved Cake traditions
 
 Nothing is more secret than Nutrameg Cake traditions. All started with a Cake and all will end with a cake! I live by the cake & I die by cake!

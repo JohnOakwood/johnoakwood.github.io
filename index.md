@@ -33,7 +33,7 @@ Honorary title for our most dedicated cake bringer and lover.
 
 # 3. Our most beloved Cake traditions
 
-Nothing is more secret than Nutrameg Cake traditions. All started with a Cake and all will end with a cake! I live by the cake & I die by cake!
+Nothing is more sacred than Nutrameg Cake traditions. All started with a Cake and all will end with a cake! I live by the cake & I die by cake!
 
 Here are our dearest and most beloved Cake traditions that everyone has to follow and hold dear to their hearts:
 

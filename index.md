@@ -107,8 +107,10 @@ Here are the most common crimes and punishments:
 
 <p style="margin-left: 15px">5.5. If you haven't been in the office for a while - better bring a cake or Ilzes Eclairs from Ventspils!</p>
 
-> May the Cake Odds be Ever in Your Favor!
-  
+# 6. Cake quotes
+
 > Katrs pats savas kūkas nesējs / Laura D. /
 
-_Latest revision: 07.11.2022 13:25_
+> May the Cake Odds be Ever in Your Favor!
+
+_Latest revision: 17.11.2022 15:17_
